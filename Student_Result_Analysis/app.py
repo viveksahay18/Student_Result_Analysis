@@ -1,0 +1,1 @@
+print('Student Result Analysis Project Ready')
